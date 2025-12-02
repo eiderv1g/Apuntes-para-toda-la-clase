@@ -53,21 +53,21 @@
 - Enlace: https://www.docker.com/
 
 ## 📎 TAREAS
-👉 **Sysinternals**
+📌 **Sysinternals**
 - Instalar las herramientas de Sysinternals
 - Enlace:  https://learn.microsoft.com/es-es/sysinternals/downloads/sysinternals-suite
 
-👉 **Virtualización**
+📌 **Virtualización**
 - Instalar un gestor de virtualización como virtualbox 
 - Enlace: https://www.virtualbox.org/
 
 **Para habilitar la virtualización, hay que hacerlo desde la BIOS. Yo encontré la info por youtube, hay varios vídeos con distintas interfaces según el ordenador y tal. No es difícil de hacer.* 
 
-👉 **Ubuntu**
+📌 **Ubuntu**
 - Descarga e intenta instalar Ubuntu para Linux 
 - Enlace: https://ubuntu.com/download/server
 
-👉 **SSH**
+📌 **SSH**
 - Descarga e intenta instalar el paquete SSH
 - Enlace: https://www.ionos.es/digitalguide/fileadmin/DigitalGuide/Screenshots_2022/ubuntu-server-ssh-setup.png<br>
 <img src= "img/ubuntu-server-ssh-setup.png" width="500">

@@ -104,4 +104,4 @@ Si el contenido no cumple el patrón, el formulario no se envía.
 - Deepseek, otra IA: https://www.deepseek.com/
 - Enlaces útiles para desarrollo: https://developer.mozilla.org/en-US/ || https://www.w3.org/
 
-⚠️⚠️⚠️⚠️⚠️ **No olvides consultar y repasar exhaustivamente los apuntes de la asignatura en la plataforma. Si solo estudias la teoría a partir de estos mini-resúmenes, probablemente te falten muchos conceptos para poder aprobar el exámen. Estos resúmenes son una ayuda extra y desinteresada, no la guía oficial para sacarse el grado. ¡¡Ánimo y a por ello!!** **No olvides consultar y repasar exhaustivamente los apuntes de la asignatura en la plataforma. Si solo estudias la teoría a partir de estos mini-resúmenes, probablemente te falten muchos conceptos para poder aprobar el exámen. Estos resúmenes son una ayuda extra y desinteresada, no la guía oficial para sacarse el grado. ¡¡Ánimo y a por ello!!**
+

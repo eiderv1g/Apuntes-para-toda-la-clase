@@ -83,8 +83,7 @@ Digamos que en una página en la que hay que hacer mucho scroll, queremos tener 
 `<a href="#inicio">Volver al principio</a>`
 -> Para que al pulsar "Volver al principio" nos lleve al principio de la página
 
-**- ENVIAR CORREOS -**
-
+**- ENVIAR CORREOS -**<br>
 *Existen opciones mejores y más sofisticadas para hacer esto, pero de momento no está de más conocer esta manera simple:*<br>
 `<a href="mailto:olga.moreno@thepower.education"</a>`
 

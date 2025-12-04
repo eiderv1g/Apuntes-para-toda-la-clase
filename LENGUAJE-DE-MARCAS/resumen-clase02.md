@@ -51,26 +51,36 @@ Git es un sistema de control de versiones distribuido, creado por Linus Torvalds
 
 *Primero que nada, ¿esto por qué es útil? No solo para compartir código en, por ejemplo, equipos de trabajo, sino también para almacenar nuestros proyectos y recuperarlos desde GitHub en caso de que lo perdamos en nuestro equipo, como si de una nube se tratase.*
 
-0. Creamos en la ubicación deseada una carpeta, la abrimos desde VSC y creamos un nuevo archivo html dentro de esta carpeta (podréis ver la carpeta y su contenido en la pestaña del explorador, a la izquierda)
+```0. Creamos en la ubicación deseada una carpeta, la abrimos desde VSC y creamos un nuevo archivo html dentro de esta carpeta (podréis ver la carpeta y su contenido en la pestaña del explorador, a la izquierda)
 1. Ahora, vamos a crear un repositorio. Lo podemos hacer de dos formas distintas:
 
 - Desde la bash de Git -> en la consola, escribimos el comando git init y pulsamos Enter
 -  En la izqda. del todo de la interfaz de VSC, nos vamos a la pestaña de Source Control y le damos al botón de Iniciar Repositorio 
 
 2. Nos vamos al código de nuestro archivo html y le hacemos algunas modificaciones (lo que queráis, por ejemplo, añadirle comentarios, algún párrafo extra en el body, etc.)
+
 3. En la pestaña de Source Control, en el recuadro vacío que pone “Mensaje” podemos nombrar a estos cambios como queramos. Después le damos a botón de Commit (o como sea en español) y por último a Publish Branch
-4. Si sincronizasteis bien vuestro VSC con la cuenta de GitHub, el repositorio se subirá correctamente a la misma. Id a vuestra cuenta y comprobadlo (buscad en repositorios) Ahí debería estar vuestro proyecto:100: 
+
+4. Si sincronizasteis bien vuestro VSC con la cuenta de GitHub, el repositorio se subirá correctamente a la misma. Id a vuestra cuenta y comprobadlo (buscad en repositorios) Ahí debería estar vuestro proyecto
+
 5. En Git Hub, si abrís vuestro archivo, en la pestaña de code veréis su código. En la pestaña Blame, veréis su historial de modificaciones
+```
 
 👉 **Cómo nos bajamos (clonar) este repositorio desde nuestra cuenta de GitHub**
 
 *Vamos a imaginar que hemos perdido o se nos ha borrado la carpeta que creamos antes con nuestro nuevo archivo html (vamos, que te la borres). ¡Que no cunda el pánico! Vamos a recuperar ese proyecto gracias a que lo habíamos subido en GitHub*
 
-1. Vamos a nuestro proyecto en GitHub (buscad en el icono de vuestro perfil y darle a “Repositories”)
+```1. Vamos a nuestro proyecto en GitHub (buscad en el icono de vuestro perfil y darle a “Repositories”)
+
 2. Seleccionamos nuestro proyecto. Una vez abierto le damos a la pestañita verde de “<> Code”y copiamos la url que aparece
+
 3. Abrimos VSC, y abrimos la carpeta en la que queremos clonar nuestro proyecto
-4. abrimos nuestra terminal Git y ejecutamos el siguiente comando: **git clone “la url que hemos copiado, sin entrecomillarla”**
+
+4. abrimos nuestra terminal Git y ejecutamos el siguiente comando: 
+git clone “la url que hemos copiado, sin entrecomillarla”
+
 5. Pues ya lo tenemos
+```
 
 👉 **Comandos para el BASH de Git (*tipo Linux*)**
 - `ls` nos muestra lo que tenemos en el directorio actual

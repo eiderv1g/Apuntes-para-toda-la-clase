@@ -1,4 +1,4 @@
-# 💻 CLASE 01
+# 💻 CLASE 03
 ## 📎 TEORÍA
 ### ALGUNOS CONCEPTOS NUEVOS:
 **Etiqueta HTML:** es una instrucción que se usa para definir la estructura y el contenido de una página web.

@@ -1,4 +1,4 @@
-# 💻 CLASE 01
+# 💻 CLASE 04
 ## 📎 CÓDIGO
 ### DEFINICIONES
 Usamos la etiqueta `<dl>` para crear listas de definiciones (Definition Lists)<br> 

@@ -1,4 +1,4 @@
-# 💻 CLASE 01
+# 💻 CLASE 02
 ## 📎 TEORÍA 
 ### ALGUNOS CONCEPTOS NUEVOS:
 

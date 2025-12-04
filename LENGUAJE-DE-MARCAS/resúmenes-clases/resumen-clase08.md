@@ -65,9 +65,9 @@ Vamos a hacerlo preferiblemente (buena praxis) por medio de una hoja de estilo e
 ### SELECTORES
 El selector es el que permite seleccionar las etiquetas HTML a las que aplicar el estilo. Para esas etiquetas se especifican las propiedades de estilo que se quieren modificar, y el valor que asignarles.
 - Podemos seleccionar por **etiqueta**:
-<img src= "img-resumenes/selector-1.png">
+<img src= "img-resumenes/selector-1.png"><br>
 - Seleccionar por identificador único **(id)**:
-<img src= "img-resumenes/selector-2.png">
+<img src= "img-resumenes/selector-2.png"><br>
 - Seleccionar por grupo de la misma **clase**:
 <img src= "img-resumenes/selector-3.png">
 

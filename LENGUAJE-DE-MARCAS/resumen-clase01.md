@@ -17,7 +17,8 @@
 - Enlace: https://github.com/
 
 📌 **Visual Studio Code**
-- Descárgate Visual Studio Code
+- Descárgate e instala Visual Studio Code
+- Sincroniza tu cuenta de GitHub con tu Visual Studio Code
 - Enlace: https://code.visualstudio.com/download
 
 📌 **Extensiones**
@@ -39,3 +40,5 @@
 📌 **GIT**
 - Descárgate GIT
 - Enlace: https://git-scm.com/downloads
+
+⚠️⚠️⚠️ **No olvides consultar y repasar exhaustivamente los apuntes de la asignatura en la plataforma. Si solo estudias la teoría a partir de estos mini-resúmenes, probablemente te falten muchos conceptos para poder aprobar el exámen. Estos resúmenes son una ayuda extra y desinteresada, no la guía oficial para sacarse el grado. ¡¡Ánimo y a por ello!!**

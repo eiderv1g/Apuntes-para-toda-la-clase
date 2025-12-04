@@ -17,8 +17,8 @@ Un **repositorio** es un proyecto que almacena archivos junto con su historial d
 - Permite trabajar en equipo
 - Se usa mucho para desarrollo de Software
 
-**-Git-**
-Git es un sistema de control de versiones que permite guardar, organizar y controlar los cambios de un proyecto a lo largo del tiempo.
+**-Git-**<br>
+Git es un sistema de control de versiones distribuido, creado por Linus Torvalds en 2005, que permite a los desarrolladores registrar los cambios en el código fuente de un proyecto a lo largo del tiempo y colaborar con otras personas de forma eficiente.
 
 **-Encabezados-**
 - `<h1>Encabezado mega importante</h1>`

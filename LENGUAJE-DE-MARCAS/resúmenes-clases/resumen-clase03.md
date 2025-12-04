@@ -1,3 +1,6 @@
+[**Clase siguiente →**](resumen-clase04.md)
+
+[**← Clase anterior**](resumen-clase02.md)
 # 💻 CLASE 03
 ## 📎 TEORÍA
 ### ALGUNOS CONCEPTOS NUEVOS:
@@ -116,6 +119,8 @@ Para insertar una imagen, la tenemos que enlazar:<br>
 - Sitio web con la peor experiencia de usuario posible: https://userinyerface.com/
 - Sitio web para revisar nuestro código: https://validator.w3.org/
 
+[**Clase siguiente →**](resumen-clase04.md)
 
+[**← Clase anterior**](resumen-clase02.md)
 
 

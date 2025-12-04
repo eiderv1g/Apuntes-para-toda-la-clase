@@ -1,3 +1,4 @@
+[**Clase siguiente →**](resumen-clase02.md)
 # 💻 CLASE 01
 ## 📎 TEORÍA 
 ### ALGUNOS CONCEPTOS NUEVOS:
@@ -41,3 +42,4 @@
 - Descárgate GIT
 - Enlace: https://git-scm.com/downloads
 
+[**Clase siguiente →**](resumen-clase02.md)

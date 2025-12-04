@@ -1,3 +1,6 @@
+[**Clase siguiente →**](resumen-clase11.md)
+
+[**← Clase anterior**](resumen-clase09.md)
 # 💻 CLASE 10
 ## 📎 TEORÍA
 
@@ -11,3 +14,7 @@
 
 ## 📎 EXTRAS
 - El servi
+
+[**Clase siguiente →**](resumen-clase11.md)
+
+[**← Clase anterior**](resumen-clase09.md)

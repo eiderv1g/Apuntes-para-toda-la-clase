@@ -1,3 +1,6 @@
+[**Clase siguiente →**](resumen-clase09.md)
+
+[**← Clase anterior**](resumen-clase07.md)
 # 💻 CLASE 08
 
 ## 📎 REPASO, ¿QUÉ LLEVAMOS VISTO?
@@ -78,3 +81,7 @@ El selector es el que permite seleccionar las etiquetas HTML a las que aplicar e
 ## 📎 EXTRAS
 - Podéis jugar con el inspector para experimentar con los estilos directamente en el navegador (F12)
 - La mejor página web del mundo mundial: https://gvanrossum.github.io/
+
+[**Clase siguiente →**](resumen-clase09.md)
+
+[**← Clase anterior**](resumen-clase07.md)

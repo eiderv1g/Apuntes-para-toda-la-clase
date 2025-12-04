@@ -1,3 +1,6 @@
+[**Clase siguiente →**](resumen-clase07.md)
+
+[**← Clase anterior**](resumen-clase05.md)
 # 💻 CLASE 06
 ## 📎 CÓDIGO
 ### MULTIMEDIA
@@ -104,4 +107,6 @@ Si el contenido no cumple el patrón, el formulario no se envía.
 - Deepseek, otra IA: https://www.deepseek.com/
 - Enlaces útiles para desarrollo: https://developer.mozilla.org/en-US/ || https://www.w3.org/
 
+[**Clase siguiente →**](resumen-clase07.md)
 
+[**← Clase anterior**](resumen-clase05.md)

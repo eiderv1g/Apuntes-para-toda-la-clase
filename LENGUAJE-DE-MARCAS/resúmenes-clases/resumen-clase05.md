@@ -1,3 +1,6 @@
+[**Clase siguiente →**](resumen-clase06.md)
+
+[**← Clase anterior**](resumen-clase04.md)
 # 💻 CLASE 05
 ## 📎 TEORÍA
 ### ALGUNOS CONCEPTOS NUEVOS:
@@ -63,5 +66,7 @@ Digamos que estas nuevas etiquetas son como div pero con nombres predeterminados
 - La wikipedia de Juan Carlos Aragón Becerra: https://es.wikipedia.org/wiki/Juan_Carlos_Arag%C3%B3n
 - TIP: Para reformatear el texto (que se os vea ordenadito) el atajo es: **May + Alt + F**
 
+[**Clase siguiente →**](resumen-clase06.md)
 
+[**← Clase anterior**](resumen-clase04.md)
 

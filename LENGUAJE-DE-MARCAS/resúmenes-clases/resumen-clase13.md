@@ -1,3 +1,7 @@
+[**Clase siguiente →**](resumen-clase14.md)
+
+[**← Clase anterior**](resumen-clase12.md)
+
 # 💻 CLASE 13
 ## 📎 TEORÍA
 
@@ -11,3 +15,7 @@
 
 ## 📎 EXTRAS
 - El servi
+
+[**Clase siguiente →**](resumen-clase14.md)
+
+[**← Clase anterior**](resumen-clase12.md)

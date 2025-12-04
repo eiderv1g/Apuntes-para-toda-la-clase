@@ -1,3 +1,6 @@
+[**Clase siguiente →**](resumen-clase10.md)
+
+[**← Clase anterior**](resumen-clase08.md)
 # 💻 CLASE 09
 ## 📎 TEORÍA
 ### REGLAS DE APLICACIÓN DE ESTILO (cortesía de Olga)
@@ -59,3 +62,7 @@ Son convenciones de escritura que se usan para nombrar variables, clases, funcio
 ## 📎 EXTRAS
 - Extensión del cuentagotas para chrome: https://chromewebstore.google.com/detail/eye-dropper/hmdcmlfkchdmnmnmheododdhjedfccka?hl=es&pli=1
 - Herramienta para comprobar compatibilidades web: https://caniuse.com/
+
+[**Clase siguiente →**](resumen-clase10.md)
+
+[**← Clase anterior**](resumen-clase08.md)

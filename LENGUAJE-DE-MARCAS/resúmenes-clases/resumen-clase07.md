@@ -1,3 +1,6 @@
+[**Clase siguiente →**](resumen-clase08.md)
+
+[**← Clase anterior**](resumen-clase06.md)
 # 💻 CLASE 07
 ## 📎 TEORÍA
 ### ACCESIBILIDAD Y ETIQUETAS PARA EL SEO
@@ -56,3 +59,6 @@ Aquí, aunque el botón solo muestra un icono visual (✖), el lector de pantall
 - Ejercicio 4 en la carpeta HTML
 - Enlace: https://github.com/olga3emes/proyectos
 
+[**Clase siguiente →**](resumen-clase08.md)
+
+[**← Clase anterior**](resumen-clase06.md)

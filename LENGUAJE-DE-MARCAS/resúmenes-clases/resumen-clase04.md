@@ -1,3 +1,6 @@
+[**Clase siguiente →**](resumen-clase05.md)
+
+[**← Clase anterior**](resumen-clase03.md)
 # 💻 CLASE 04
 ## 📎 CÓDIGO
 ### DEFINICIONES
@@ -67,3 +70,6 @@ Usamos la etiqueta `<dl>` para crear listas de definiciones (Definition Lists)<b
 - Construye estas tablas:<br>
 <img src= "img-resumenes/reto-tablas.JPG">
 
+[**Clase siguiente →**](resumen-clase05.md)
+
+[**← Clase anterior**](resumen-clase03.md)

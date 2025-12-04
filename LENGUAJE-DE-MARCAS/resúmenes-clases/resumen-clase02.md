@@ -1,3 +1,6 @@
+[**Clase siguiente →**](resumen-clase03.md)
+
+[**← Clase anterior**](resumen-clase01.md)
 # 💻 CLASE 02
 ## 📎 TEORÍA 
 ### ALGUNOS CONCEPTOS NUEVOS:
@@ -104,4 +107,6 @@ Practica todo lo visto en los 📎**TIPS** de este resumen:
 - Practicar todos los códigos html y comandos nuevos
 
 
+[**Clase siguiente →**](resumen-clase03.md)
 
+[**← Clase anterior**](resumen-clase01.md)

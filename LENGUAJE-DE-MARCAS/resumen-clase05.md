@@ -55,3 +55,14 @@ Digamos que estas nuevas etiquetas son como div pero con nombres predeterminados
 📌 **Ejercicio artículo usando etiquetas HTML5**<br>
 - Ejercicio 2 en la carpeta HTML<br>
 - Enlace: https://github.com/olga3emes/proyectos
+
+## 📎 EXTRAS
+- `<cite>` etiqueta para textos citados
+- Ejemplo de una página web muy bien hecha:** https://www.sony.es/
+- Ampliando contenidos sobre div y span: https://www.youtube.com/watch?v=WbnCll6vvw4
+- La wikipedia de Juan Carlos Aragón Becerra: https://es.wikipedia.org/wiki/Juan_Carlos_Arag%C3%B3n
+- TIP: Para reformatear el texto (que se os vea ordenadito) el atajo es: **May + Alt + F**
+
+
+
+⚠️⚠️⚠️ **No olvides consultar y repasar exhaustivamente los apuntes de la asignatura en la plataforma. Si solo estudias la teoría a partir de estos mini-resúmenes, probablemente te falten muchos conceptos para poder aprobar el exámen. Estos resúmenes son una ayuda extra y desinteresada, no la guía oficial para sacarse el grado. ¡¡Ánimo y a por ello!!**

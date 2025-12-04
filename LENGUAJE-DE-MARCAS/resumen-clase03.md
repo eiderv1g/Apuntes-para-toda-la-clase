@@ -111,6 +111,12 @@ Para insertar una imagen, la tenemos que enlazar:<br>
 - Ejercicio 1 en la carpeta de HTML
 - Enlace: https://github.com/olga3emes/proyectos
 
+## 📎 EXTRAS
+
+- Sitio web con la peor experiencia de usuario posible: https://userinyerface.com/
+- Sitio web para revisar nuestro código: https://validator.w3.org/
+
+
 ⚠️⚠️⚠️ **No olvides consultar y repasar exhaustivamente los apuntes de la asignatura en la plataforma. Si solo estudias la teoría a partir de estos mini-resúmenes, probablemente te falten muchos conceptos para poder aprobar el exámen. Estos resúmenes son una ayuda extra y desinteresada, no la guía oficial para sacarse el grado. ¡¡Ánimo y a por ello!!**
 
 

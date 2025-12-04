@@ -16,6 +16,8 @@ El firmware, ya sea BIOS o UEFI, entrega el control a un **bootloader** (cargado
 
 ❓ *Y por cierto, ¿Qué es un firmware? -> un tipo de software básico que está grabado directamente en el hardware de un dispositivo y que permite que que el hardware y el software se comuniquen y que el dispositivo arranque y funcione correctamente*
 
+⚠️⚠️⚠️ **No olvides consultar y repasar exhaustivamente los apuntes de la asignatura en la plataforma. Si solo estudias la teoría a partir de estos mini-resúmenes, probablemente te falten muchos conceptos para poder aprobar el exámen. Estos resúmenes son una ayuda extra y desinteresada, no la guía oficial para sacarse el grado. ¡¡Ánimo y a por ello!!**
+
 
 ## 📎 TAREAS
 📌 **Windows 10**

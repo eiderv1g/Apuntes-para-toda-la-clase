@@ -100,11 +100,6 @@ Permite definir todas las propiedades de fondo de un elemento en una sola linea:
 ## 📎 TIPS
 👉 El baile de los valores de las propiedades: `arriba, derecha, abajo, izquierda` chachachá
 
-## 📎 TAREAS
-📌 **Ejercicio formulario**<br>
-
-## 📎 EXTRAS
-- El servi
 [**Clase siguiente →**](resumen-clase12.md)
 
 [**← Clase anterior**](resumen-clase10.md)

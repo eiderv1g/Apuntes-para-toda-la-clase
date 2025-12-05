@@ -1,3 +1,9 @@
+
+
+[**Clase siguiente →**](clase03.md)
+
+[**← Clase anterior**](clase01.md)
+
 # 💻 CLASE 02
 ## 📎 TEORÍA 
 ### CONCEPTOS NUEVOS
@@ -18,7 +24,6 @@ Son dos métodos para organizar las particiones en un disco duro.
 - **NAT (Network Address Translation):** La máquina virtual comparte la conexión de red del host. Puede acceder a Internet, pero no es visible directamente en la red local.
 - **Bridge (Puente):** La máquina virtual se conecta como si fuera un dispositivo más en la red local. Tiene su propia IP y es visible por otros equipos.
 
-⚠️⚠️⚠️ **No olvides consultar y repasar exhaustivamente los apuntes de la asignatura en la plataforma. Si solo estudias la teoría a partir de estos mini-resúmenes, probablemente te falten muchos conceptos para poder aprobar el exámen. Estos resúmenes son una ayuda extra y desinteresada, no la guía oficial para sacarse el grado. ¡¡Ánimo y a por ello!!**
 
 ## 📎 ALGUNOS TIPS
 👉 **Ping**
@@ -36,3 +41,8 @@ Son dos métodos para organizar las particiones en un disco duro.
 - En caso de haberlo hecho, instalar Windows 11 o Windows Server.
 - Enlace W11: https://www.microsoft.com/es-es/software-download/windows11
 - Enlace WS: https://www.microsoft.com/es-mx/evalcenter/download-windows-server-2025
+<br><br> 
+
+[**Clase siguiente →**](clase03.md)
+
+[**← Clase anterior**](clase01.md)

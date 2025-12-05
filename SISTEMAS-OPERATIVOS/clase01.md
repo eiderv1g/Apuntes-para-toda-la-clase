@@ -1,3 +1,5 @@
+
+[**Clase siguiente →**](clase02.md)
 # 💻 CLASE 01
 ## 📎 TEORÍA 
 ### ALGUNOS CONCEPTOS NUEVOS:
@@ -31,7 +33,6 @@
 *Ejemplo: VirtualBox, VMware Workstation.<br>*
 👉 Piensa que es como instalar el WhatsApp o el Word, pero en lugar de eso instalas un programa para crear máquinas virtuales.
 
-⚠️⚠️⚠️ **No olvides consultar y repasar exhaustivamente los apuntes de la asignatura en la plataforma. Si solo estudias la teoría a partir de estos mini-resúmenes, probablemente te falten muchos conceptos para poder aprobar el exámen. Estos resúmenes son una ayuda extra y desinteresada, no la guía oficial para sacarse el grado. ¡¡Ánimo y a por ello!!**
 
 ## 📎 ALGUNOS TIPS
 👉 **Comandos**
@@ -71,3 +72,8 @@
 - Descarga e intenta instalar el paquete SSH
 - Enlace: https://www.ionos.es/digitalguide/fileadmin/DigitalGuide/Screenshots_2022/ubuntu-server-ssh-setup.png<br>
 <img src= "img/ubuntu-server-ssh-setup.png" width="500">
+
+<br><br> 
+
+[**Clase siguiente →**](clase02.md)
+

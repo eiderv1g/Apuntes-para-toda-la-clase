@@ -67,6 +67,8 @@ El modelo de referencia OSI (Open Systems Interconnection) es un marco conceptua
 - **DNS:** (Domain Name System) es un sistema que traduce nombres de dominio legibles por humanos (como www.ejemplo.com) en direcciones IP que las computadoras usan para comunicarse en la red.
 - **SMTP:** (Simple Mail Transfer Protocol) es un protocolo usado para enviar correos electrónicos entre servidores de correo en Internet.
 - **QoS (Quality of Service o Calidad de Servicio**: es un conjunto de técnicas en redes que prioriza el tráfico de datos para asegurar un rendimiento adecuado, reduciendo retrasos, pérdidas o interrupciones en servicios críticos como voz o video.
+- **ASCII:** significa American Standard Code for Information Interchange (Código Estándar Americano para el Intercambio de Información).
+
 - **jitter**: fluctuación de la velocidad de los paquetes
 
 [**Clase siguiente →**](resumen-clase03.md)

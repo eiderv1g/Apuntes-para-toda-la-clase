@@ -41,7 +41,8 @@ En Windows, existen varios tipos de perfiles de usuario que determinan cómo se 
 
 
 ## 📎 ALGUNOS TIPS
-👉 **¿Cómo instalo wsl**
+👉 **¿Cómo instalo wsl?**
+
 Se puede hacer de dos formas:
 
 - Desde el Power Shell o el CMD y como administrador, ejecutamos el comando `wsl --install` > Reiniciamos > Verificamos que está instalado con `wsl --list --verbose`.

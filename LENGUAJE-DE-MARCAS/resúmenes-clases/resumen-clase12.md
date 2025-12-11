@@ -4,6 +4,7 @@
 
 # 💻 CLASE 12
 ## 📎 TEORÍA
+### FUENTES Y TEXTO
 
 ## 📎 CÓDIGO
 

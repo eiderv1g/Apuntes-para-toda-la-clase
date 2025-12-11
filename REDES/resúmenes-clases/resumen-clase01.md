@@ -1,8 +1,7 @@
 [**Clase siguiente →**](resumen-clase02.md)
 
 
-
-# 💻 CLASE 8
+# 💻 CLASE 1
 ## 📎 TEORÍA
 ### UNIDADES DE ALMACENAMIENTO DE DATOS
 | Unidad        | Abreviatura | Descripción |
@@ -46,7 +45,7 @@
 
 
 ## 📎 PRÁCTICA
-### CONVERTIR DE DECIMAL A BINARIO Y VICEVERSA
+### CONVERTIR DE DECIMAL A BINARIO Y VICEBERSA
 | Potencia de 2 | 2^4 | 2^3 | 2^2 | 2^1 | 2^0 |
 |---------------|-----|-----|-----|-----|-----|
 | Valor binario |  1  |  1  |  0  |  0  |  1  |

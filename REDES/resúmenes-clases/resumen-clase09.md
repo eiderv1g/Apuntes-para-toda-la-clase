@@ -1,0 +1,23 @@
+[**Clase siguiente →**](resumen-clase10.md)
+
+[**← Clase anterior**](resumen-clase08.md)
+
+# 💻 CLASE 9
+## 📎 TEORÍA
+### MODELO OSI
+
+
+## 📎 PRÁCTICA
+
+
+
+
+## 📎 ALGUNOS TIPS
+👉 **Resumen de conceptos vistos hoy**
+
+## 📎 TAREAS
+📌 **Tarea**
+
+[**Clase siguiente →**](resumen-clase10.md)
+
+[**← Clase anterior**](resumen-clase08.md)

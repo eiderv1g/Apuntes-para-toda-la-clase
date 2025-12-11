@@ -68,8 +68,6 @@ El modelo de referencia OSI (Open Systems Interconnection) es un marco conceptua
 - **SMTP:** (Simple Mail Transfer Protocol) es un protocolo usado para enviar correos electrónicos entre servidores de correo en Internet.
 - **QoS (Quality of Service o Calidad de Servicio**: es un conjunto de técnicas en redes que prioriza el tráfico de datos para asegurar un rendimiento adecuado, reduciendo retrasos, pérdidas o interrupciones en servicios críticos como voz o video.
 - **jitter**: fluctuación de la velocidad de los paquetes
-## 📎 TAREAS
-📌 **Tarea**
 
 [**Clase siguiente →**](resumen-clase03.md)
 

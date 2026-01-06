@@ -1,3 +1,4 @@
+[**Clase siguiente →**](clase3-4.md)
 # ☁️ Fundamentos de Computación en la Nube  
 **Clases 1–2**
 
@@ -161,4 +162,4 @@ Permite pasar de:
 - IaaS, PaaS y SaaS representan distintos niveles de control
 - La nube es crítica para la economía digital actual
 
-[**Clase siguiente →**](clase 3-4.md)
+[**Clase siguiente →**](clase3-4.md)

@@ -1,4 +1,6 @@
-[**Clase anterior →**](clase 1-2.md)
+[**Clase siguiente →**](clase5-6.md)
+
+[**← Clase anterior**](clase1-2.md)
 # ☁️ Fundamentos de Computación en la Nube  
 **Clases 3–4**
 
@@ -101,4 +103,6 @@ Amazon tiene varias líneas de negocio:
 - AWS es el líder mundial en computación en la nube
 - La nube es una de las principales fuentes de beneficio de Amazon
 
-[**Clase siguiente →**](clase 5-6.md)
+[**Clase siguiente →**](clase5-6.md)
+
+[**← Clase anterior**](clase1-2.md)
